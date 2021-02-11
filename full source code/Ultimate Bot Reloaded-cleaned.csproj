@@ -1,0 +1,97 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="{ed27675d-30ae-4c73-a91e-548d4ab72f67}">
+    <Build>
+      <Settings ApplicationIcon="App.ico" AssemblyKeyContainerName="" AssemblyName="Ultimate Bot Reloaded-cleaned" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="WinExe" PreBuildEvent="" PostBuildEvent="" RootNamespace="" RunPostBuildEvent="OnBuildSuccess" StartupObject="">
+        <Config Name="Debug" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="DEBUG;TRACE" DocumentationFile="" DebugSymbols="true" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="false" OutputPath="bin\Debug\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="TRACE" DocumentationFile="" DebugSymbols="false" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="true" OutputPath="bin\Release\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="Microsoft.VisualBasic" AssemblyName="Microsoft.VisualBasic" />
+        <Reference Name="mscorlib" AssemblyName="mscorlib" />
+        <Reference Name="DevComponents.DotNetBar2" AssemblyName="DevComponents.DotNetBar2" />
+        <Reference Name="System" AssemblyName="System" />
+        <Reference Name="System.Windows.Forms" AssemblyName="System.Windows.Forms" />
+        <Reference Name="System.Core" AssemblyName="System.Core" />
+        <Reference Name="System.ServiceModel" AssemblyName="System.ServiceModel" />
+        <Reference Name="System.Drawing" AssemblyName="System.Drawing" />
+        <Reference Name="System" AssemblyName="System" />
+        <Reference Name="System.Windows.Forms" AssemblyName="System.Windows.Forms" />
+        <Reference Name="System.Drawing" AssemblyName="System.Drawing" />
+        <Reference Name="mscorlib" AssemblyName="mscorlib" />
+        <Reference Name="System.Speech" AssemblyName="System.Speech" />
+        <Reference Name="System.IdentityModel" AssemblyName="System.IdentityModel" />
+        <Reference Name="System.Xml" AssemblyName="System.Xml" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="App.ico" BuildAction="Content" />
+        <File RelPath="Resources\ns0.Main.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\MapTeleport.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\UpdateChecker.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\SelectClient.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="Resources\ns0.Bot.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\debugger.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="Resources\Ultimate_Bot_Reloaded.Resources.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="Resources\ns0.Login.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\PartyForm.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\BotSettings.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="Resources\ns0.ErrorForm.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\Automoveform.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\Hotspotform.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\BotForm.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="ns0\QuestForm.resx" BuildAction="EmbeddedResource" />
+        <File RelPath="AssemblyInfo.cs" BuildAction="Compile" />
+        <File RelPath="ns0\AssemblyInfoAttribute.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Automoveform.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Bot.cs" BuildAction="Compile" />
+        <File RelPath="ns0\BotForm.cs" BuildAction="Compile" />
+        <File RelPath="ns0\BotSettings.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Class0.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Class1.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Class14.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Class15.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Class7.cs" BuildAction="Compile" />
+        <File RelPath="ns0\debugger.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Delegate0.cs" BuildAction="Compile" />
+        <File RelPath="ns0\ErrorForm.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Form0.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass0.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass1.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass14.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass22.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass23.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass24.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass25.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass26.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass27.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass28.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass3.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass31.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass34.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass38.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass4.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass43.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass44.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass5.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GClass6.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GEnum2.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GEnum6.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GInterface0.cs" BuildAction="Compile" />
+        <File RelPath="ns0\GInterface1.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Hotspotform.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Login.cs" BuildAction="Compile" />
+        <File RelPath="ns0\Main.cs" BuildAction="Compile" />
+        <File RelPath="ns0\MapTeleport.cs" BuildAction="Compile" />
+        <File RelPath="ns0\PartyForm.cs" BuildAction="Compile" />
+        <File RelPath="ns0\QuestForm.cs" BuildAction="Compile" />
+        <File RelPath="ns0\SelectClient.cs" BuildAction="Compile" />
+        <File RelPath="ns0\UpdateChecker.cs" BuildAction="Compile" />
+        <File RelPath="Ultimate_Bot_Reloaded.My\MySettings.cs" BuildAction="Compile" />
+        <File RelPath="Ultimate_Bot_Reloaded.PartyFunctions\PartyCode.cs" BuildAction="Compile" />
+        <File RelPath="Ultimate_Bot_Reloaded.ServiceReference1\IBotService.cs" BuildAction="Compile" />
+        <File RelPath="Ultimate_Bot_Reloaded.UpdateService\IUpdateService.cs" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>
